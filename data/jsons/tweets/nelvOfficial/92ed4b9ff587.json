@@ -1,0 +1,2224 @@
+{
+  "metadata": {
+    "username": "nelvOfficial",
+    "query": "from:nelvOfficial min_faves:1 -is:reply",
+    "query_hash": "92ed4b9ff587",
+    "limit": 20,
+    "has_next_page": true,
+    "next_cursor": "DAADDAABCgABG0a9htYbgCkKAAIbRCi3y9sgjgAIAAIAAAACCAADAAAAAAgABAAAAAAKAAUbRsw6JUAnEAoABhtGzDolP9jwAAA",
+    "actual_count": 20
+  },
+  "tweets": [
+    {
+      "type": "tweet",
+      "id": "1965466674209194025",
+      "url": "https://x.com/nelvOfficial/status/1965466674209194025",
+      "twitterUrl": "https://twitter.com/nelvOfficial/status/1965466674209194025",
+      "text": "@MMatt14 neuroplasticiity",
+      "source": "Twitter for iPhone",
+      "retweetCount": 0,
+      "replyCount": 0,
+      "likeCount": 1,
+      "quoteCount": 0,
+      "viewCount": 3,
+      "createdAt": "Tue Sep 09 17:25:46 +0000 2025",
+      "lang": "und",
+      "bookmarkCount": 0,
+      "isReply": true,
+      "inReplyToId": "1965464985330745521",
+      "conversationId": "1965464985330745521",
+      "displayTextRange": [
+        9,
+        25
+      ],
+      "inReplyToUserId": "485793018",
+      "inReplyToUsername": "MMatt14",
+      "author": {
+        "type": "user",
+        "userName": "nelvOfficial",
+        "url": "https://x.com/nelvOfficial",
+        "twitterUrl": "https://twitter.com/nelvOfficial",
+        "id": "1849903860984446976",
+        "name": "david len",
+        "isVerified": false,
+        "isBlueVerified": true,
+        "verifiedType": null,
+        "profilePicture": "https://pbs.twimg.com/profile_images/1905514620598861824/AnLDRr_7_normal.jpg",
+        "coverPicture": "https://pbs.twimg.com/profile_banners/1849903860984446976/1752183683",
+        "description": "",
+        "location": "Kuala Lumpur",
+        "followers": 171,
+        "following": 308,
+        "status": "",
+        "canDm": true,
+        "canMediaTag": true,
+        "createdAt": "Fri Oct 25 20:00:38 +0000 2024",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {}
+        },
+        "fastFollowersCount": 0,
+        "favouritesCount": 8829,
+        "hasCustomTimelines": true,
+        "isTranslator": false,
+        "mediaCount": 104,
+        "statusesCount": 1816,
+        "withheldInCountries": [],
+        "affiliatesHighlightedLabel": {},
+        "possiblySensitive": false,
+        "pinnedTweetIds": [
+          "1939273097066217662"
+        ],
+        "profile_bio": {
+          "description": "Software engineer. ex-quant.\n\nAll relevant links on the website.",
+          "entities": {
+            "description": {},
+            "url": {
+              "urls": [
+                {
+                  "display_url": "nelworks.com",
+                  "expanded_url": "http://www.nelworks.com",
+                  "indices": [
+                    0,
+                    23
+                  ],
+                  "url": "https://t.co/ejA6le2oHq"
+                }
+              ]
+            }
+          }
+        },
+        "isAutomated": false,
+        "automatedBy": null
+      },
+      "extendedEntities": {},
+      "card": null,
+      "place": {},
+      "entities": {
+        "user_mentions": [
+          {
+            "id_str": "485793018",
+            "indices": [
+              0,
+              8
+            ],
+            "name": "Mᜋtt",
+            "screen_name": "MMatt14"
+          }
+        ]
+      },
+      "quoted_tweet": null,
+      "retweeted_tweet": null,
+      "isLimitedReply": false,
+      "article": null
+    },
+    {
+      "type": "tweet",
+      "id": "1965466486421815474",
+      "url": "https://x.com/nelvOfficial/status/1965466486421815474",
+      "twitterUrl": "https://twitter.com/nelvOfficial/status/1965466486421815474",
+      "text": "@PaulSkallas and yeah, this loyalty mechanism is pretty Lindy",
+      "source": "Twitter for iPhone",
+      "retweetCount": 0,
+      "replyCount": 0,
+      "likeCount": 2,
+      "quoteCount": 0,
+      "viewCount": 88,
+      "createdAt": "Tue Sep 09 17:25:01 +0000 2025",
+      "lang": "en",
+      "bookmarkCount": 1,
+      "isReply": true,
+      "inReplyToId": "1965466287729238429",
+      "conversationId": "1965465821309718739",
+      "displayTextRange": [
+        13,
+        61
+      ],
+      "inReplyToUserId": "1849903860984446976",
+      "inReplyToUsername": "nelvOfficial",
+      "author": {
+        "type": "user",
+        "userName": "nelvOfficial",
+        "url": "https://x.com/nelvOfficial",
+        "twitterUrl": "https://twitter.com/nelvOfficial",
+        "id": "1849903860984446976",
+        "name": "david len",
+        "isVerified": false,
+        "isBlueVerified": true,
+        "verifiedType": null,
+        "profilePicture": "https://pbs.twimg.com/profile_images/1905514620598861824/AnLDRr_7_normal.jpg",
+        "coverPicture": "https://pbs.twimg.com/profile_banners/1849903860984446976/1752183683",
+        "description": "",
+        "location": "Kuala Lumpur",
+        "followers": 171,
+        "following": 308,
+        "status": "",
+        "canDm": true,
+        "canMediaTag": true,
+        "createdAt": "Fri Oct 25 20:00:38 +0000 2024",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {}
+        },
+        "fastFollowersCount": 0,
+        "favouritesCount": 8829,
+        "hasCustomTimelines": true,
+        "isTranslator": false,
+        "mediaCount": 104,
+        "statusesCount": 1816,
+        "withheldInCountries": [],
+        "affiliatesHighlightedLabel": {},
+        "possiblySensitive": false,
+        "pinnedTweetIds": [
+          "1939273097066217662"
+        ],
+        "profile_bio": {
+          "description": "Software engineer. ex-quant.\n\nAll relevant links on the website.",
+          "entities": {
+            "description": {},
+            "url": {
+              "urls": [
+                {
+                  "display_url": "nelworks.com",
+                  "expanded_url": "http://www.nelworks.com",
+                  "indices": [
+                    0,
+                    23
+                  ],
+                  "url": "https://t.co/ejA6le2oHq"
+                }
+              ]
+            }
+          }
+        },
+        "isAutomated": false,
+        "automatedBy": null
+      },
+      "extendedEntities": {},
+      "card": null,
+      "place": {},
+      "entities": {
+        "user_mentions": [
+          {
+            "id_str": "886358633646350340",
+            "indices": [
+              0,
+              12
+            ],
+            "name": "LindyMan",
+            "screen_name": "PaulSkallas"
+          }
+        ]
+      },
+      "quoted_tweet": null,
+      "retweeted_tweet": null,
+      "isLimitedReply": false,
+      "article": null
+    },
+    {
+      "type": "tweet",
+      "id": "1965466287729238429",
+      "url": "https://x.com/nelvOfficial/status/1965466287729238429",
+      "twitterUrl": "https://twitter.com/nelvOfficial/status/1965466287729238429",
+      "text": "@PaulSkallas Going to the island is an oath of loyalty the deep state must do to get trusted by the circle. \n\nIts like the conditions of getting into a mafia or yakuza requires getting away with murder, then confessing to your boss.",
+      "source": "Twitter for iPhone",
+      "retweetCount": 0,
+      "replyCount": 2,
+      "likeCount": 8,
+      "quoteCount": 0,
+      "viewCount": 3443,
+      "createdAt": "Tue Sep 09 17:24:14 +0000 2025",
+      "lang": "en",
+      "bookmarkCount": 1,
+      "isReply": true,
+      "inReplyToId": "1965465821309718739",
+      "conversationId": "1965465821309718739",
+      "displayTextRange": [
+        13,
+        232
+      ],
+      "inReplyToUserId": "886358633646350340",
+      "inReplyToUsername": "PaulSkallas",
+      "author": {
+        "type": "user",
+        "userName": "nelvOfficial",
+        "url": "https://x.com/nelvOfficial",
+        "twitterUrl": "https://twitter.com/nelvOfficial",
+        "id": "1849903860984446976",
+        "name": "david len",
+        "isVerified": false,
+        "isBlueVerified": true,
+        "verifiedType": null,
+        "profilePicture": "https://pbs.twimg.com/profile_images/1905514620598861824/AnLDRr_7_normal.jpg",
+        "coverPicture": "https://pbs.twimg.com/profile_banners/1849903860984446976/1752183683",
+        "description": "",
+        "location": "Kuala Lumpur",
+        "followers": 171,
+        "following": 308,
+        "status": "",
+        "canDm": true,
+        "canMediaTag": true,
+        "createdAt": "Fri Oct 25 20:00:38 +0000 2024",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {}
+        },
+        "fastFollowersCount": 0,
+        "favouritesCount": 8829,
+        "hasCustomTimelines": true,
+        "isTranslator": false,
+        "mediaCount": 104,
+        "statusesCount": 1816,
+        "withheldInCountries": [],
+        "affiliatesHighlightedLabel": {},
+        "possiblySensitive": false,
+        "pinnedTweetIds": [
+          "1939273097066217662"
+        ],
+        "profile_bio": {
+          "description": "Software engineer. ex-quant.\n\nAll relevant links on the website.",
+          "entities": {
+            "description": {},
+            "url": {
+              "urls": [
+                {
+                  "display_url": "nelworks.com",
+                  "expanded_url": "http://www.nelworks.com",
+                  "indices": [
+                    0,
+                    23
+                  ],
+                  "url": "https://t.co/ejA6le2oHq"
+                }
+              ]
+            }
+          }
+        },
+        "isAutomated": false,
+        "automatedBy": null
+      },
+      "extendedEntities": {},
+      "card": null,
+      "place": {},
+      "entities": {
+        "user_mentions": [
+          {
+            "id_str": "886358633646350340",
+            "indices": [
+              0,
+              12
+            ],
+            "name": "LindyMan",
+            "screen_name": "PaulSkallas"
+          }
+        ]
+      },
+      "quoted_tweet": null,
+      "retweeted_tweet": null,
+      "isLimitedReply": false,
+      "article": null
+    },
+    {
+      "type": "tweet",
+      "id": "1965464030279282701",
+      "url": "https://x.com/nelvOfficial/status/1965464030279282701",
+      "twitterUrl": "https://twitter.com/nelvOfficial/status/1965464030279282701",
+      "text": "@signulll People who build for VCs write linkedin slops on their twitter",
+      "source": "Twitter for iPhone",
+      "retweetCount": 0,
+      "replyCount": 0,
+      "likeCount": 1,
+      "quoteCount": 0,
+      "viewCount": 45,
+      "createdAt": "Tue Sep 09 17:15:16 +0000 2025",
+      "lang": "en",
+      "bookmarkCount": 0,
+      "isReply": true,
+      "inReplyToId": "1965462126082097424",
+      "conversationId": "1965462126082097424",
+      "displayTextRange": [
+        10,
+        72
+      ],
+      "inReplyToUserId": "1717671858521194496",
+      "inReplyToUsername": "signulll",
+      "author": {
+        "type": "user",
+        "userName": "nelvOfficial",
+        "url": "https://x.com/nelvOfficial",
+        "twitterUrl": "https://twitter.com/nelvOfficial",
+        "id": "1849903860984446976",
+        "name": "david len",
+        "isVerified": false,
+        "isBlueVerified": true,
+        "verifiedType": null,
+        "profilePicture": "https://pbs.twimg.com/profile_images/1905514620598861824/AnLDRr_7_normal.jpg",
+        "coverPicture": "https://pbs.twimg.com/profile_banners/1849903860984446976/1752183683",
+        "description": "",
+        "location": "Kuala Lumpur",
+        "followers": 171,
+        "following": 308,
+        "status": "",
+        "canDm": true,
+        "canMediaTag": true,
+        "createdAt": "Fri Oct 25 20:00:38 +0000 2024",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {}
+        },
+        "fastFollowersCount": 0,
+        "favouritesCount": 8829,
+        "hasCustomTimelines": true,
+        "isTranslator": false,
+        "mediaCount": 104,
+        "statusesCount": 1816,
+        "withheldInCountries": [],
+        "affiliatesHighlightedLabel": {},
+        "possiblySensitive": false,
+        "pinnedTweetIds": [
+          "1939273097066217662"
+        ],
+        "profile_bio": {
+          "description": "Software engineer. ex-quant.\n\nAll relevant links on the website.",
+          "entities": {
+            "description": {},
+            "url": {
+              "urls": [
+                {
+                  "display_url": "nelworks.com",
+                  "expanded_url": "http://www.nelworks.com",
+                  "indices": [
+                    0,
+                    23
+                  ],
+                  "url": "https://t.co/ejA6le2oHq"
+                }
+              ]
+            }
+          }
+        },
+        "isAutomated": false,
+        "automatedBy": null
+      },
+      "extendedEntities": {},
+      "card": null,
+      "place": {},
+      "entities": {
+        "user_mentions": [
+          {
+            "id_str": "1717671858521194496",
+            "indices": [
+              0,
+              9
+            ],
+            "name": "signüll",
+            "screen_name": "signulll"
+          }
+        ]
+      },
+      "quoted_tweet": null,
+      "retweeted_tweet": null,
+      "isLimitedReply": false,
+      "article": null
+    },
+    {
+      "type": "tweet",
+      "id": "1965459051011342468",
+      "url": "https://x.com/nelvOfficial/status/1965459051011342468",
+      "twitterUrl": "https://twitter.com/nelvOfficial/status/1965459051011342468",
+      "text": "@NathanpmYoung Some countries do not deserve prosperity ever. \n\nThis is the kind of things that make me question if democracy is worse than tyranny.",
+      "source": "Twitter for iPhone",
+      "retweetCount": 0,
+      "replyCount": 1,
+      "likeCount": 1,
+      "quoteCount": 0,
+      "viewCount": 160,
+      "createdAt": "Tue Sep 09 16:55:28 +0000 2025",
+      "lang": "en",
+      "bookmarkCount": 0,
+      "isReply": true,
+      "inReplyToId": "1965321003447583017",
+      "conversationId": "1965321003447583017",
+      "displayTextRange": [
+        15,
+        148
+      ],
+      "inReplyToUserId": "1160994871",
+      "inReplyToUsername": "NathanpmYoung",
+      "author": {
+        "type": "user",
+        "userName": "nelvOfficial",
+        "url": "https://x.com/nelvOfficial",
+        "twitterUrl": "https://twitter.com/nelvOfficial",
+        "id": "1849903860984446976",
+        "name": "david len",
+        "isVerified": false,
+        "isBlueVerified": true,
+        "verifiedType": null,
+        "profilePicture": "https://pbs.twimg.com/profile_images/1905514620598861824/AnLDRr_7_normal.jpg",
+        "coverPicture": "https://pbs.twimg.com/profile_banners/1849903860984446976/1752183683",
+        "description": "",
+        "location": "Kuala Lumpur",
+        "followers": 171,
+        "following": 308,
+        "status": "",
+        "canDm": true,
+        "canMediaTag": true,
+        "createdAt": "Fri Oct 25 20:00:38 +0000 2024",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {}
+        },
+        "fastFollowersCount": 0,
+        "favouritesCount": 8829,
+        "hasCustomTimelines": true,
+        "isTranslator": false,
+        "mediaCount": 104,
+        "statusesCount": 1816,
+        "withheldInCountries": [],
+        "affiliatesHighlightedLabel": {},
+        "possiblySensitive": false,
+        "pinnedTweetIds": [
+          "1939273097066217662"
+        ],
+        "profile_bio": {
+          "description": "Software engineer. ex-quant.\n\nAll relevant links on the website.",
+          "entities": {
+            "description": {},
+            "url": {
+              "urls": [
+                {
+                  "display_url": "nelworks.com",
+                  "expanded_url": "http://www.nelworks.com",
+                  "indices": [
+                    0,
+                    23
+                  ],
+                  "url": "https://t.co/ejA6le2oHq"
+                }
+              ]
+            }
+          }
+        },
+        "isAutomated": false,
+        "automatedBy": null
+      },
+      "extendedEntities": {},
+      "card": null,
+      "place": {},
+      "entities": {
+        "user_mentions": [
+          {
+            "id_str": "1160994871",
+            "indices": [
+              0,
+              14
+            ],
+            "name": "Nathan 🔎",
+            "screen_name": "NathanpmYoung"
+          }
+        ]
+      },
+      "quoted_tweet": null,
+      "retweeted_tweet": null,
+      "isLimitedReply": false,
+      "article": null
+    },
+    {
+      "type": "tweet",
+      "id": "1965458185470574661",
+      "url": "https://x.com/nelvOfficial/status/1965458185470574661",
+      "twitterUrl": "https://twitter.com/nelvOfficial/status/1965458185470574661",
+      "text": "@apralky Im building an elo system for twitter. Stay tuned. \n\nIn the meantime, @seloesque does have a slopminimizing solution",
+      "source": "Twitter for iPhone",
+      "retweetCount": 0,
+      "replyCount": 0,
+      "likeCount": 3,
+      "quoteCount": 0,
+      "viewCount": 159,
+      "createdAt": "Tue Sep 09 16:52:02 +0000 2025",
+      "lang": "en",
+      "bookmarkCount": 0,
+      "isReply": true,
+      "inReplyToId": "1965457097723629851",
+      "conversationId": "1965457097723629851",
+      "displayTextRange": [
+        9,
+        125
+      ],
+      "inReplyToUserId": "1700977169177206784",
+      "inReplyToUsername": "apralky",
+      "author": {
+        "type": "user",
+        "userName": "nelvOfficial",
+        "url": "https://x.com/nelvOfficial",
+        "twitterUrl": "https://twitter.com/nelvOfficial",
+        "id": "1849903860984446976",
+        "name": "david len",
+        "isVerified": false,
+        "isBlueVerified": true,
+        "verifiedType": null,
+        "profilePicture": "https://pbs.twimg.com/profile_images/1905514620598861824/AnLDRr_7_normal.jpg",
+        "coverPicture": "https://pbs.twimg.com/profile_banners/1849903860984446976/1752183683",
+        "description": "",
+        "location": "Kuala Lumpur",
+        "followers": 171,
+        "following": 308,
+        "status": "",
+        "canDm": true,
+        "canMediaTag": true,
+        "createdAt": "Fri Oct 25 20:00:38 +0000 2024",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {}
+        },
+        "fastFollowersCount": 0,
+        "favouritesCount": 8829,
+        "hasCustomTimelines": true,
+        "isTranslator": false,
+        "mediaCount": 104,
+        "statusesCount": 1816,
+        "withheldInCountries": [],
+        "affiliatesHighlightedLabel": {},
+        "possiblySensitive": false,
+        "pinnedTweetIds": [
+          "1939273097066217662"
+        ],
+        "profile_bio": {
+          "description": "Software engineer. ex-quant.\n\nAll relevant links on the website.",
+          "entities": {
+            "description": {},
+            "url": {
+              "urls": [
+                {
+                  "display_url": "nelworks.com",
+                  "expanded_url": "http://www.nelworks.com",
+                  "indices": [
+                    0,
+                    23
+                  ],
+                  "url": "https://t.co/ejA6le2oHq"
+                }
+              ]
+            }
+          }
+        },
+        "isAutomated": false,
+        "automatedBy": null
+      },
+      "extendedEntities": {},
+      "card": null,
+      "place": {},
+      "entities": {
+        "user_mentions": [
+          {
+            "id_str": "1700977169177206784",
+            "indices": [
+              0,
+              8
+            ],
+            "name": "yung macro 宏观年少传奇",
+            "screen_name": "apralky"
+          },
+          {
+            "id_str": "1374864718591098886",
+            "indices": [
+              79,
+              89
+            ],
+            "name": "SELO",
+            "screen_name": "seloesque"
+          }
+        ]
+      },
+      "quoted_tweet": null,
+      "retweeted_tweet": null,
+      "isLimitedReply": false,
+      "article": null
+    },
+    {
+      "type": "tweet",
+      "id": "1965243918876115052",
+      "url": "https://x.com/nelvOfficial/status/1965243918876115052",
+      "twitterUrl": "https://twitter.com/nelvOfficial/status/1965243918876115052",
+      "text": "@WuWei113 Americans with ozempic:\n\nLose One-ton",
+      "source": "Twitter for iPhone",
+      "retweetCount": 0,
+      "replyCount": 0,
+      "likeCount": 3,
+      "quoteCount": 0,
+      "viewCount": 135,
+      "createdAt": "Tue Sep 09 02:40:37 +0000 2025",
+      "lang": "en",
+      "bookmarkCount": 0,
+      "isReply": true,
+      "inReplyToId": "1965233645490426265",
+      "conversationId": "1965233645490426265",
+      "displayTextRange": [
+        10,
+        47
+      ],
+      "inReplyToUserId": "1512682935547277319",
+      "inReplyToUsername": "WuWei113",
+      "author": {
+        "type": "user",
+        "userName": "nelvOfficial",
+        "url": "https://x.com/nelvOfficial",
+        "twitterUrl": "https://twitter.com/nelvOfficial",
+        "id": "1849903860984446976",
+        "name": "david len",
+        "isVerified": false,
+        "isBlueVerified": true,
+        "verifiedType": null,
+        "profilePicture": "https://pbs.twimg.com/profile_images/1905514620598861824/AnLDRr_7_normal.jpg",
+        "coverPicture": "https://pbs.twimg.com/profile_banners/1849903860984446976/1752183683",
+        "description": "",
+        "location": "Kuala Lumpur",
+        "followers": 171,
+        "following": 308,
+        "status": "",
+        "canDm": true,
+        "canMediaTag": true,
+        "createdAt": "Fri Oct 25 20:00:38 +0000 2024",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {}
+        },
+        "fastFollowersCount": 0,
+        "favouritesCount": 8829,
+        "hasCustomTimelines": true,
+        "isTranslator": false,
+        "mediaCount": 104,
+        "statusesCount": 1816,
+        "withheldInCountries": [],
+        "affiliatesHighlightedLabel": {},
+        "possiblySensitive": false,
+        "pinnedTweetIds": [
+          "1939273097066217662"
+        ],
+        "profile_bio": {
+          "description": "Software engineer. ex-quant.\n\nAll relevant links on the website.",
+          "entities": {
+            "description": {},
+            "url": {
+              "urls": [
+                {
+                  "display_url": "nelworks.com",
+                  "expanded_url": "http://www.nelworks.com",
+                  "indices": [
+                    0,
+                    23
+                  ],
+                  "url": "https://t.co/ejA6le2oHq"
+                }
+              ]
+            }
+          }
+        },
+        "isAutomated": false,
+        "automatedBy": null
+      },
+      "extendedEntities": {},
+      "card": null,
+      "place": {},
+      "entities": {
+        "user_mentions": [
+          {
+            "id_str": "1512682935547277319",
+            "indices": [
+              0,
+              9
+            ],
+            "name": "Wei Wu 吴伟",
+            "screen_name": "WuWei113"
+          }
+        ]
+      },
+      "quoted_tweet": null,
+      "retweeted_tweet": null,
+      "isLimitedReply": false,
+      "article": null
+    },
+    {
+      "type": "tweet",
+      "id": "1965229026404172141",
+      "url": "https://x.com/nelvOfficial/status/1965229026404172141",
+      "twitterUrl": "https://twitter.com/nelvOfficial/status/1965229026404172141",
+      "text": "For those who knew who was behind everything https://t.co/hE1wrkL3HQ",
+      "source": "Twitter for iPhone",
+      "retweetCount": 0,
+      "replyCount": 0,
+      "likeCount": 1,
+      "quoteCount": 0,
+      "viewCount": 29,
+      "createdAt": "Tue Sep 09 01:41:26 +0000 2025",
+      "lang": "en",
+      "bookmarkCount": 0,
+      "isReply": true,
+      "inReplyToId": "1965223392505909573",
+      "conversationId": "1965223392505909573",
+      "displayTextRange": [
+        0,
+        44
+      ],
+      "inReplyToUserId": "1849903860984446976",
+      "inReplyToUsername": "nelvOfficial",
+      "author": {
+        "type": "user",
+        "userName": "nelvOfficial",
+        "url": "https://x.com/nelvOfficial",
+        "twitterUrl": "https://twitter.com/nelvOfficial",
+        "id": "1849903860984446976",
+        "name": "david len",
+        "isVerified": false,
+        "isBlueVerified": true,
+        "verifiedType": null,
+        "profilePicture": "https://pbs.twimg.com/profile_images/1905514620598861824/AnLDRr_7_normal.jpg",
+        "coverPicture": "https://pbs.twimg.com/profile_banners/1849903860984446976/1752183683",
+        "description": "",
+        "location": "Kuala Lumpur",
+        "followers": 171,
+        "following": 308,
+        "status": "",
+        "canDm": true,
+        "canMediaTag": true,
+        "createdAt": "Fri Oct 25 20:00:38 +0000 2024",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {}
+        },
+        "fastFollowersCount": 0,
+        "favouritesCount": 8829,
+        "hasCustomTimelines": true,
+        "isTranslator": false,
+        "mediaCount": 104,
+        "statusesCount": 1816,
+        "withheldInCountries": [],
+        "affiliatesHighlightedLabel": {},
+        "possiblySensitive": false,
+        "pinnedTweetIds": [
+          "1939273097066217662"
+        ],
+        "profile_bio": {
+          "description": "Software engineer. ex-quant.\n\nAll relevant links on the website.",
+          "entities": {
+            "description": {},
+            "url": {
+              "urls": [
+                {
+                  "display_url": "nelworks.com",
+                  "expanded_url": "http://www.nelworks.com",
+                  "indices": [
+                    0,
+                    23
+                  ],
+                  "url": "https://t.co/ejA6le2oHq"
+                }
+              ]
+            }
+          }
+        },
+        "isAutomated": false,
+        "automatedBy": null
+      },
+      "extendedEntities": {
+        "media": [
+          {
+            "allow_download_status": {
+              "allow_download": true
+            },
+            "display_url": "pic.twitter.com/hE1wrkL3HQ",
+            "expanded_url": "https://twitter.com/nelvOfficial/status/1965229026404172141/photo/1",
+            "ext_media_availability": {
+              "status": "Available"
+            },
+            "features": {
+              "large": {
+                "faces": [
+                  {
+                    "h": 126,
+                    "w": 126,
+                    "x": 230,
+                    "y": 242
+                  }
+                ]
+              },
+              "orig": {
+                "faces": [
+                  {
+                    "h": 126,
+                    "w": 126,
+                    "x": 230,
+                    "y": 242
+                  }
+                ]
+              }
+            },
+            "id_str": "1965228875719606273",
+            "indices": [
+              45,
+              68
+            ],
+            "media_key": "3_1965228875719606273",
+            "media_results": {
+              "id": "QXBpTWVkaWFSZXN1bHRzOgwAAQoAARtF5UAPm4ABCgACG0XlYyUbgW0AAA==",
+              "result": {
+                "__typename": "ApiMedia",
+                "id": "QXBpTWVkaWE6DAABCgABG0XlQA+bgAEKAAIbReVjJRuBbQAA",
+                "media_key": "3_1965228875719606273"
+              }
+            },
+            "media_url_https": "https://pbs.twimg.com/media/G0XlQA-bgAEBxk9.png",
+            "original_info": {
+              "focus_rects": [
+                {
+                  "h": 273,
+                  "w": 488,
+                  "x": 0,
+                  "y": 287
+                },
+                {
+                  "h": 488,
+                  "w": 488,
+                  "x": 0,
+                  "y": 140
+                },
+                {
+                  "h": 556,
+                  "w": 488,
+                  "x": 0,
+                  "y": 72
+                },
+                {
+                  "h": 628,
+                  "w": 314,
+                  "x": 0,
+                  "y": 0
+                },
+                {
+                  "h": 628,
+                  "w": 488,
+                  "x": 0,
+                  "y": 0
+                }
+              ],
+              "height": 628,
+              "width": 488
+            },
+            "sizes": {
+              "large": {
+                "h": 628,
+                "w": 488
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/hE1wrkL3HQ"
+          }
+        ]
+      },
+      "card": null,
+      "place": {},
+      "entities": {},
+      "quoted_tweet": null,
+      "retweeted_tweet": null,
+      "isLimitedReply": false,
+      "article": null
+    },
+    {
+      "type": "tweet",
+      "id": "1965225888360083759",
+      "url": "https://x.com/nelvOfficial/status/1965225888360083759",
+      "twitterUrl": "https://twitter.com/nelvOfficial/status/1965225888360083759",
+      "text": "@negativeyieId @BoringBiz_ Like all unproductive commodities, Pokemon card prices all comes down to whether the future playerbase is bigger / spends more than current player base. \n\nCard producers need a way to carefully manage this \"token economy\" to sell their inventory while still not devaluing it.",
+      "source": "Twitter for iPhone",
+      "retweetCount": 0,
+      "replyCount": 1,
+      "likeCount": 4,
+      "quoteCount": 0,
+      "viewCount": 633,
+      "createdAt": "Tue Sep 09 01:28:58 +0000 2025",
+      "lang": "en",
+      "bookmarkCount": 0,
+      "isReply": true,
+      "inReplyToId": "1965224376548413908",
+      "conversationId": "1965193449264783646",
+      "displayTextRange": [
+        27,
+        302
+      ],
+      "inReplyToUserId": "313018476",
+      "inReplyToUsername": "negativeyieId",
+      "author": {
+        "type": "user",
+        "userName": "nelvOfficial",
+        "url": "https://x.com/nelvOfficial",
+        "twitterUrl": "https://twitter.com/nelvOfficial",
+        "id": "1849903860984446976",
+        "name": "david len",
+        "isVerified": false,
+        "isBlueVerified": true,
+        "verifiedType": null,
+        "profilePicture": "https://pbs.twimg.com/profile_images/1905514620598861824/AnLDRr_7_normal.jpg",
+        "coverPicture": "https://pbs.twimg.com/profile_banners/1849903860984446976/1752183683",
+        "description": "",
+        "location": "Kuala Lumpur",
+        "followers": 171,
+        "following": 308,
+        "status": "",
+        "canDm": true,
+        "canMediaTag": true,
+        "createdAt": "Fri Oct 25 20:00:38 +0000 2024",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {}
+        },
+        "fastFollowersCount": 0,
+        "favouritesCount": 8829,
+        "hasCustomTimelines": true,
+        "isTranslator": false,
+        "mediaCount": 104,
+        "statusesCount": 1816,
+        "withheldInCountries": [],
+        "affiliatesHighlightedLabel": {},
+        "possiblySensitive": false,
+        "pinnedTweetIds": [
+          "1939273097066217662"
+        ],
+        "profile_bio": {
+          "description": "Software engineer. ex-quant.\n\nAll relevant links on the website.",
+          "entities": {
+            "description": {},
+            "url": {
+              "urls": [
+                {
+                  "display_url": "nelworks.com",
+                  "expanded_url": "http://www.nelworks.com",
+                  "indices": [
+                    0,
+                    23
+                  ],
+                  "url": "https://t.co/ejA6le2oHq"
+                }
+              ]
+            }
+          }
+        },
+        "isAutomated": false,
+        "automatedBy": null
+      },
+      "extendedEntities": {},
+      "card": null,
+      "place": {},
+      "entities": {
+        "user_mentions": [
+          {
+            "id_str": "313018476",
+            "indices": [
+              0,
+              14
+            ],
+            "name": "J",
+            "screen_name": "negativeyieId"
+          },
+          {
+            "id_str": "1652717271469506565",
+            "indices": [
+              15,
+              26
+            ],
+            "name": "Boring_Business",
+            "screen_name": "BoringBiz_"
+          }
+        ]
+      },
+      "quoted_tweet": null,
+      "retweeted_tweet": null,
+      "isLimitedReply": false,
+      "article": null
+    },
+    {
+      "type": "tweet",
+      "id": "1965223392505909573",
+      "url": "https://x.com/nelvOfficial/status/1965223392505909573",
+      "twitterUrl": "https://twitter.com/nelvOfficial/status/1965223392505909573",
+      "text": "Central banks is like the One Ring in Tolkien's fantasy. \n\nEveryone succumbs to it, regardless of them being a hero in their early life. \n\nAnd it always drives civilization towards tyranny. Ring changes hands, and we get a full circle.",
+      "source": "Twitter for iPhone",
+      "retweetCount": 0,
+      "replyCount": 1,
+      "likeCount": 1,
+      "quoteCount": 1,
+      "viewCount": 196,
+      "createdAt": "Tue Sep 09 01:19:03 +0000 2025",
+      "lang": "en",
+      "bookmarkCount": 0,
+      "isReply": false,
+      "inReplyToId": null,
+      "conversationId": "1965223392505909573",
+      "displayTextRange": [
+        0,
+        235
+      ],
+      "inReplyToUserId": null,
+      "inReplyToUsername": null,
+      "author": {
+        "type": "user",
+        "userName": "nelvOfficial",
+        "url": "https://x.com/nelvOfficial",
+        "twitterUrl": "https://twitter.com/nelvOfficial",
+        "id": "1849903860984446976",
+        "name": "david len",
+        "isVerified": false,
+        "isBlueVerified": true,
+        "verifiedType": null,
+        "profilePicture": "https://pbs.twimg.com/profile_images/1905514620598861824/AnLDRr_7_normal.jpg",
+        "coverPicture": "https://pbs.twimg.com/profile_banners/1849903860984446976/1752183683",
+        "description": "",
+        "location": "Kuala Lumpur",
+        "followers": 171,
+        "following": 308,
+        "status": "",
+        "canDm": true,
+        "canMediaTag": true,
+        "createdAt": "Fri Oct 25 20:00:38 +0000 2024",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {}
+        },
+        "fastFollowersCount": 0,
+        "favouritesCount": 8829,
+        "hasCustomTimelines": true,
+        "isTranslator": false,
+        "mediaCount": 104,
+        "statusesCount": 1816,
+        "withheldInCountries": [],
+        "affiliatesHighlightedLabel": {},
+        "possiblySensitive": false,
+        "pinnedTweetIds": [
+          "1939273097066217662"
+        ],
+        "profile_bio": {
+          "description": "Software engineer. ex-quant.\n\nAll relevant links on the website.",
+          "entities": {
+            "description": {},
+            "url": {
+              "urls": [
+                {
+                  "display_url": "nelworks.com",
+                  "expanded_url": "http://www.nelworks.com",
+                  "indices": [
+                    0,
+                    23
+                  ],
+                  "url": "https://t.co/ejA6le2oHq"
+                }
+              ]
+            }
+          }
+        },
+        "isAutomated": false,
+        "automatedBy": null
+      },
+      "extendedEntities": {},
+      "card": null,
+      "place": {},
+      "entities": {},
+      "quoted_tweet": null,
+      "retweeted_tweet": null,
+      "isLimitedReply": false,
+      "article": null
+    },
+    {
+      "type": "tweet",
+      "id": "1965216144622846174",
+      "url": "https://x.com/nelvOfficial/status/1965216144622846174",
+      "twitterUrl": "https://twitter.com/nelvOfficial/status/1965216144622846174",
+      "text": "@BoringBiz_ You assume a \"carry risk\" people don't talk about. \n\nThe returns you get is based on the risk that: \n- cards get damaged\n- future demand increases\n- future supply is controlled very well by Pokemon Inc\n- you can liquidate it at spot at no discount\n\nIf its that profitable every store keeper would have hoarded.",
+      "source": "Twitter for iPhone",
+      "retweetCount": 3,
+      "replyCount": 5,
+      "likeCount": 103,
+      "quoteCount": 0,
+      "viewCount": 7013,
+      "createdAt": "Tue Sep 09 00:50:15 +0000 2025",
+      "lang": "en",
+      "bookmarkCount": 10,
+      "isReply": true,
+      "inReplyToId": "1965193449264783646",
+      "conversationId": "1965193449264783646",
+      "displayTextRange": [
+        12,
+        290
+      ],
+      "inReplyToUserId": "1652717271469506565",
+      "inReplyToUsername": "BoringBiz_",
+      "author": {
+        "type": "user",
+        "userName": "nelvOfficial",
+        "url": "https://x.com/nelvOfficial",
+        "twitterUrl": "https://twitter.com/nelvOfficial",
+        "id": "1849903860984446976",
+        "name": "david len",
+        "isVerified": false,
+        "isBlueVerified": true,
+        "verifiedType": null,
+        "profilePicture": "https://pbs.twimg.com/profile_images/1905514620598861824/AnLDRr_7_normal.jpg",
+        "coverPicture": "https://pbs.twimg.com/profile_banners/1849903860984446976/1752183683",
+        "description": "",
+        "location": "Kuala Lumpur",
+        "followers": 171,
+        "following": 308,
+        "status": "",
+        "canDm": true,
+        "canMediaTag": true,
+        "createdAt": "Fri Oct 25 20:00:38 +0000 2024",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {}
+        },
+        "fastFollowersCount": 0,
+        "favouritesCount": 8829,
+        "hasCustomTimelines": true,
+        "isTranslator": false,
+        "mediaCount": 104,
+        "statusesCount": 1816,
+        "withheldInCountries": [],
+        "affiliatesHighlightedLabel": {},
+        "possiblySensitive": false,
+        "pinnedTweetIds": [
+          "1939273097066217662"
+        ],
+        "profile_bio": {
+          "description": "Software engineer. ex-quant.\n\nAll relevant links on the website.",
+          "entities": {
+            "description": {},
+            "url": {
+              "urls": [
+                {
+                  "display_url": "nelworks.com",
+                  "expanded_url": "http://www.nelworks.com",
+                  "indices": [
+                    0,
+                    23
+                  ],
+                  "url": "https://t.co/ejA6le2oHq"
+                }
+              ]
+            }
+          }
+        },
+        "isAutomated": false,
+        "automatedBy": null
+      },
+      "extendedEntities": {},
+      "card": null,
+      "place": {},
+      "entities": {},
+      "quoted_tweet": null,
+      "retweeted_tweet": null,
+      "isLimitedReply": false,
+      "article": null
+    },
+    {
+      "type": "tweet",
+      "id": "1965214250504482977",
+      "url": "https://x.com/nelvOfficial/status/1965214250504482977",
+      "twitterUrl": "https://twitter.com/nelvOfficial/status/1965214250504482977",
+      "text": "@redaction They are also the first people who report everyone else",
+      "source": "Twitter for iPhone",
+      "retweetCount": 0,
+      "replyCount": 0,
+      "likeCount": 3,
+      "quoteCount": 0,
+      "viewCount": 41,
+      "createdAt": "Tue Sep 09 00:42:43 +0000 2025",
+      "lang": "en",
+      "bookmarkCount": 0,
+      "isReply": true,
+      "inReplyToId": "1965198549521768799",
+      "conversationId": "1965198549521768799",
+      "displayTextRange": [
+        11,
+        66
+      ],
+      "inReplyToUserId": "259897904",
+      "inReplyToUsername": "redaction",
+      "author": {
+        "type": "user",
+        "userName": "nelvOfficial",
+        "url": "https://x.com/nelvOfficial",
+        "twitterUrl": "https://twitter.com/nelvOfficial",
+        "id": "1849903860984446976",
+        "name": "david len",
+        "isVerified": false,
+        "isBlueVerified": true,
+        "verifiedType": null,
+        "profilePicture": "https://pbs.twimg.com/profile_images/1905514620598861824/AnLDRr_7_normal.jpg",
+        "coverPicture": "https://pbs.twimg.com/profile_banners/1849903860984446976/1752183683",
+        "description": "",
+        "location": "Kuala Lumpur",
+        "followers": 171,
+        "following": 308,
+        "status": "",
+        "canDm": true,
+        "canMediaTag": true,
+        "createdAt": "Fri Oct 25 20:00:38 +0000 2024",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {}
+        },
+        "fastFollowersCount": 0,
+        "favouritesCount": 8829,
+        "hasCustomTimelines": true,
+        "isTranslator": false,
+        "mediaCount": 104,
+        "statusesCount": 1816,
+        "withheldInCountries": [],
+        "affiliatesHighlightedLabel": {},
+        "possiblySensitive": false,
+        "pinnedTweetIds": [
+          "1939273097066217662"
+        ],
+        "profile_bio": {
+          "description": "Software engineer. ex-quant.\n\nAll relevant links on the website.",
+          "entities": {
+            "description": {},
+            "url": {
+              "urls": [
+                {
+                  "display_url": "nelworks.com",
+                  "expanded_url": "http://www.nelworks.com",
+                  "indices": [
+                    0,
+                    23
+                  ],
+                  "url": "https://t.co/ejA6le2oHq"
+                }
+              ]
+            }
+          }
+        },
+        "isAutomated": false,
+        "automatedBy": null
+      },
+      "extendedEntities": {},
+      "card": null,
+      "place": {},
+      "entities": {
+        "user_mentions": [
+          {
+            "id_str": "259897904",
+            "indices": [
+              0,
+              10
+            ],
+            "name": "@redaction",
+            "screen_name": "redaction"
+          }
+        ]
+      },
+      "quoted_tweet": null,
+      "retweeted_tweet": null,
+      "isLimitedReply": false,
+      "article": null
+    },
+    {
+      "type": "tweet",
+      "id": "1965211800854806640",
+      "url": "https://x.com/nelvOfficial/status/1965211800854806640",
+      "twitterUrl": "https://twitter.com/nelvOfficial/status/1965211800854806640",
+      "text": "The smartest people I know are saying crazy stuff now",
+      "source": "Twitter for iPhone",
+      "retweetCount": 0,
+      "replyCount": 0,
+      "likeCount": 2,
+      "quoteCount": 0,
+      "viewCount": 22,
+      "createdAt": "Tue Sep 09 00:32:59 +0000 2025",
+      "lang": "en",
+      "bookmarkCount": 0,
+      "isReply": false,
+      "inReplyToId": null,
+      "conversationId": "1965211800854806640",
+      "displayTextRange": [
+        0,
+        53
+      ],
+      "inReplyToUserId": null,
+      "inReplyToUsername": null,
+      "author": {
+        "type": "user",
+        "userName": "nelvOfficial",
+        "url": "https://x.com/nelvOfficial",
+        "twitterUrl": "https://twitter.com/nelvOfficial",
+        "id": "1849903860984446976",
+        "name": "david len",
+        "isVerified": false,
+        "isBlueVerified": true,
+        "verifiedType": null,
+        "profilePicture": "https://pbs.twimg.com/profile_images/1905514620598861824/AnLDRr_7_normal.jpg",
+        "coverPicture": "https://pbs.twimg.com/profile_banners/1849903860984446976/1752183683",
+        "description": "",
+        "location": "Kuala Lumpur",
+        "followers": 171,
+        "following": 308,
+        "status": "",
+        "canDm": true,
+        "canMediaTag": true,
+        "createdAt": "Fri Oct 25 20:00:38 +0000 2024",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {}
+        },
+        "fastFollowersCount": 0,
+        "favouritesCount": 8829,
+        "hasCustomTimelines": true,
+        "isTranslator": false,
+        "mediaCount": 104,
+        "statusesCount": 1816,
+        "withheldInCountries": [],
+        "affiliatesHighlightedLabel": {},
+        "possiblySensitive": false,
+        "pinnedTweetIds": [
+          "1939273097066217662"
+        ],
+        "profile_bio": {
+          "description": "Software engineer. ex-quant.\n\nAll relevant links on the website.",
+          "entities": {
+            "description": {},
+            "url": {
+              "urls": [
+                {
+                  "display_url": "nelworks.com",
+                  "expanded_url": "http://www.nelworks.com",
+                  "indices": [
+                    0,
+                    23
+                  ],
+                  "url": "https://t.co/ejA6le2oHq"
+                }
+              ]
+            }
+          }
+        },
+        "isAutomated": false,
+        "automatedBy": null
+      },
+      "extendedEntities": {},
+      "card": null,
+      "place": {},
+      "entities": {},
+      "quoted_tweet": null,
+      "retweeted_tweet": null,
+      "isLimitedReply": false,
+      "article": null
+    },
+    {
+      "type": "tweet",
+      "id": "1965155350392570283",
+      "url": "https://x.com/nelvOfficial/status/1965155350392570283",
+      "twitterUrl": "https://twitter.com/nelvOfficial/status/1965155350392570283",
+      "text": "@martianwyrdlord Every man learns this by 25 - 35. \n\nInsane how much damage the federal reserve system can cause to the global civilization",
+      "source": "Twitter for iPhone",
+      "retweetCount": 0,
+      "replyCount": 0,
+      "likeCount": 49,
+      "quoteCount": 0,
+      "viewCount": 857,
+      "createdAt": "Mon Sep 08 20:48:41 +0000 2025",
+      "lang": "en",
+      "bookmarkCount": 2,
+      "isReply": true,
+      "inReplyToId": "1965123155116380494",
+      "conversationId": "1965123155116380494",
+      "displayTextRange": [
+        17,
+        139
+      ],
+      "inReplyToUserId": "1609651923363168258",
+      "inReplyToUsername": "martianwyrdlord",
+      "author": {
+        "type": "user",
+        "userName": "nelvOfficial",
+        "url": "https://x.com/nelvOfficial",
+        "twitterUrl": "https://twitter.com/nelvOfficial",
+        "id": "1849903860984446976",
+        "name": "david len",
+        "isVerified": false,
+        "isBlueVerified": true,
+        "verifiedType": null,
+        "profilePicture": "https://pbs.twimg.com/profile_images/1905514620598861824/AnLDRr_7_normal.jpg",
+        "coverPicture": "https://pbs.twimg.com/profile_banners/1849903860984446976/1752183683",
+        "description": "",
+        "location": "Kuala Lumpur",
+        "followers": 171,
+        "following": 308,
+        "status": "",
+        "canDm": true,
+        "canMediaTag": true,
+        "createdAt": "Fri Oct 25 20:00:38 +0000 2024",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {}
+        },
+        "fastFollowersCount": 0,
+        "favouritesCount": 8829,
+        "hasCustomTimelines": true,
+        "isTranslator": false,
+        "mediaCount": 104,
+        "statusesCount": 1816,
+        "withheldInCountries": [],
+        "affiliatesHighlightedLabel": {},
+        "possiblySensitive": false,
+        "pinnedTweetIds": [
+          "1939273097066217662"
+        ],
+        "profile_bio": {
+          "description": "Software engineer. ex-quant.\n\nAll relevant links on the website.",
+          "entities": {
+            "description": {},
+            "url": {
+              "urls": [
+                {
+                  "display_url": "nelworks.com",
+                  "expanded_url": "http://www.nelworks.com",
+                  "indices": [
+                    0,
+                    23
+                  ],
+                  "url": "https://t.co/ejA6le2oHq"
+                }
+              ]
+            }
+          }
+        },
+        "isAutomated": false,
+        "automatedBy": null
+      },
+      "extendedEntities": {},
+      "card": null,
+      "place": {},
+      "entities": {
+        "user_mentions": [
+          {
+            "id_str": "1609651923363168258",
+            "indices": [
+              0,
+              16
+            ],
+            "name": "John Carter",
+            "screen_name": "martianwyrdlord"
+          }
+        ]
+      },
+      "quoted_tweet": null,
+      "retweeted_tweet": null,
+      "isLimitedReply": false,
+      "article": null
+    },
+    {
+      "type": "tweet",
+      "id": "1964957226671747455",
+      "url": "https://x.com/nelvOfficial/status/1964957226671747455",
+      "twitterUrl": "https://twitter.com/nelvOfficial/status/1964957226671747455",
+      "text": "@ern1337 i dont think you understand\n\nhttps://t.co/mRJDGESIES",
+      "source": "Twitter for iPhone",
+      "retweetCount": 0,
+      "replyCount": 0,
+      "likeCount": 1,
+      "quoteCount": 0,
+      "viewCount": 55,
+      "createdAt": "Mon Sep 08 07:41:24 +0000 2025",
+      "lang": "en",
+      "bookmarkCount": 0,
+      "isReply": true,
+      "inReplyToId": "1964937859464663373",
+      "conversationId": "1964937859464663373",
+      "displayTextRange": [
+        9,
+        61
+      ],
+      "inReplyToUserId": "1677877171564474369",
+      "inReplyToUsername": "ern1337",
+      "author": {
+        "type": "user",
+        "userName": "nelvOfficial",
+        "url": "https://x.com/nelvOfficial",
+        "twitterUrl": "https://twitter.com/nelvOfficial",
+        "id": "1849903860984446976",
+        "name": "david len",
+        "isVerified": false,
+        "isBlueVerified": true,
+        "verifiedType": null,
+        "profilePicture": "https://pbs.twimg.com/profile_images/1905514620598861824/AnLDRr_7_normal.jpg",
+        "coverPicture": "https://pbs.twimg.com/profile_banners/1849903860984446976/1752183683",
+        "description": "",
+        "location": "Kuala Lumpur",
+        "followers": 171,
+        "following": 308,
+        "status": "",
+        "canDm": true,
+        "canMediaTag": true,
+        "createdAt": "Fri Oct 25 20:00:38 +0000 2024",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {}
+        },
+        "fastFollowersCount": 0,
+        "favouritesCount": 8829,
+        "hasCustomTimelines": true,
+        "isTranslator": false,
+        "mediaCount": 104,
+        "statusesCount": 1816,
+        "withheldInCountries": [],
+        "affiliatesHighlightedLabel": {},
+        "possiblySensitive": false,
+        "pinnedTweetIds": [
+          "1939273097066217662"
+        ],
+        "profile_bio": {
+          "description": "Software engineer. ex-quant.\n\nAll relevant links on the website.",
+          "entities": {
+            "description": {},
+            "url": {
+              "urls": [
+                {
+                  "display_url": "nelworks.com",
+                  "expanded_url": "http://www.nelworks.com",
+                  "indices": [
+                    0,
+                    23
+                  ],
+                  "url": "https://t.co/ejA6le2oHq"
+                }
+              ]
+            }
+          }
+        },
+        "isAutomated": false,
+        "automatedBy": null
+      },
+      "extendedEntities": {},
+      "card": {
+        "binding_values": [
+          {
+            "key": "description",
+            "value": {
+              "string_value": "High-growth tech companies are very expensive."
+            }
+          },
+          {
+            "key": "domain",
+            "value": {
+              "string_value": "neldivad.github.io"
+            }
+          },
+          {
+            "key": "vanity_url",
+            "value": {
+              "scribe_key": "vanity_url",
+              "string_value": "neldivad.github.io"
+            }
+          },
+          {
+            "key": "title",
+            "value": {
+              "string_value": "EP48 - Profitting with Scrum | Nelverse"
+            }
+          },
+          {
+            "key": "card_url",
+            "value": {
+              "scribe_key": "card_url",
+              "string_value": "https://t.co/mRJDGESIES"
+            }
+          }
+        ],
+        "card_platform": {
+          "platform": {
+            "audience": {
+              "name": "production"
+            },
+            "device": {
+              "name": "iPhone",
+              "version": "13"
+            }
+          }
+        },
+        "name": "summary_large_image",
+        "url": "https://t.co/mRJDGESIES"
+      },
+      "place": {},
+      "entities": {
+        "urls": [
+          {
+            "display_url": "neldivad.github.io/IDTYU/idtyu-pr…",
+            "expanded_url": "https://neldivad.github.io/IDTYU/idtyu-profitting-with-scrum",
+            "indices": [
+              38,
+              61
+            ],
+            "url": "https://t.co/mRJDGESIES"
+          }
+        ],
+        "user_mentions": [
+          {
+            "id_str": "1677877171564474369",
+            "indices": [
+              0,
+              8
+            ],
+            "name": "Erik",
+            "screen_name": "ern1337"
+          }
+        ]
+      },
+      "quoted_tweet": null,
+      "retweeted_tweet": null,
+      "isLimitedReply": false,
+      "article": null
+    },
+    {
+      "type": "tweet",
+      "id": "1964887000856834381",
+      "url": "https://x.com/nelvOfficial/status/1964887000856834381",
+      "twitterUrl": "https://twitter.com/nelvOfficial/status/1964887000856834381",
+      "text": "@willdepue Statistics prove the opposite. The better public workers get paid relative to private workers, the worse policies and service gets. \n\nCA has the highest public-private wage ratio in US. Guess which state has the worst social welfare? \n\nArgentina has the highest public-private wage ratio in LatAm. Guess which country has some of the highest inflation? \n\nEvery extra dollar that goes to state workers funds their unlimited objective against trade freedom",
+      "source": "Twitter for iPhone",
+      "retweetCount": 0,
+      "replyCount": 0,
+      "likeCount": 6,
+      "quoteCount": 0,
+      "viewCount": 830,
+      "createdAt": "Mon Sep 08 03:02:21 +0000 2025",
+      "lang": "en",
+      "bookmarkCount": 2,
+      "isReply": true,
+      "inReplyToId": "1964885565884731722",
+      "conversationId": "1964885565884731722",
+      "displayTextRange": [
+        11,
+        288
+      ],
+      "inReplyToUserId": "998575387067142144",
+      "inReplyToUsername": "willdepue",
+      "author": {
+        "type": "user",
+        "userName": "nelvOfficial",
+        "url": "https://x.com/nelvOfficial",
+        "twitterUrl": "https://twitter.com/nelvOfficial",
+        "id": "1849903860984446976",
+        "name": "david len",
+        "isVerified": false,
+        "isBlueVerified": true,
+        "verifiedType": null,
+        "profilePicture": "https://pbs.twimg.com/profile_images/1905514620598861824/AnLDRr_7_normal.jpg",
+        "coverPicture": "https://pbs.twimg.com/profile_banners/1849903860984446976/1752183683",
+        "description": "",
+        "location": "Kuala Lumpur",
+        "followers": 171,
+        "following": 308,
+        "status": "",
+        "canDm": true,
+        "canMediaTag": true,
+        "createdAt": "Fri Oct 25 20:00:38 +0000 2024",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {}
+        },
+        "fastFollowersCount": 0,
+        "favouritesCount": 8829,
+        "hasCustomTimelines": true,
+        "isTranslator": false,
+        "mediaCount": 104,
+        "statusesCount": 1816,
+        "withheldInCountries": [],
+        "affiliatesHighlightedLabel": {},
+        "possiblySensitive": false,
+        "pinnedTweetIds": [
+          "1939273097066217662"
+        ],
+        "profile_bio": {
+          "description": "Software engineer. ex-quant.\n\nAll relevant links on the website.",
+          "entities": {
+            "description": {},
+            "url": {
+              "urls": [
+                {
+                  "display_url": "nelworks.com",
+                  "expanded_url": "http://www.nelworks.com",
+                  "indices": [
+                    0,
+                    23
+                  ],
+                  "url": "https://t.co/ejA6le2oHq"
+                }
+              ]
+            }
+          }
+        },
+        "isAutomated": false,
+        "automatedBy": null
+      },
+      "extendedEntities": {},
+      "card": null,
+      "place": {},
+      "entities": {},
+      "quoted_tweet": null,
+      "retweeted_tweet": null,
+      "isLimitedReply": false,
+      "article": null
+    },
+    {
+      "type": "tweet",
+      "id": "1964882628810834046",
+      "url": "https://x.com/nelvOfficial/status/1964882628810834046",
+      "twitterUrl": "https://twitter.com/nelvOfficial/status/1964882628810834046",
+      "text": "@ElizabethHolmes Do you want to pivot your career to stand-up comedy? You are natural at this",
+      "source": "Twitter for iPhone",
+      "retweetCount": 2,
+      "replyCount": 0,
+      "likeCount": 90,
+      "quoteCount": 0,
+      "viewCount": 5150,
+      "createdAt": "Mon Sep 08 02:44:59 +0000 2025",
+      "lang": "en",
+      "bookmarkCount": 0,
+      "isReply": true,
+      "inReplyToId": "1964838363845845133",
+      "conversationId": "1964838363845845133",
+      "displayTextRange": [
+        17,
+        93
+      ],
+      "inReplyToUserId": null,
+      "inReplyToUsername": null,
+      "author": {
+        "type": "user",
+        "userName": "nelvOfficial",
+        "url": "https://x.com/nelvOfficial",
+        "twitterUrl": "https://twitter.com/nelvOfficial",
+        "id": "1849903860984446976",
+        "name": "david len",
+        "isVerified": false,
+        "isBlueVerified": true,
+        "verifiedType": null,
+        "profilePicture": "https://pbs.twimg.com/profile_images/1905514620598861824/AnLDRr_7_normal.jpg",
+        "coverPicture": "https://pbs.twimg.com/profile_banners/1849903860984446976/1752183683",
+        "description": "",
+        "location": "Kuala Lumpur",
+        "followers": 171,
+        "following": 308,
+        "status": "",
+        "canDm": true,
+        "canMediaTag": true,
+        "createdAt": "Fri Oct 25 20:00:38 +0000 2024",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {}
+        },
+        "fastFollowersCount": 0,
+        "favouritesCount": 8829,
+        "hasCustomTimelines": true,
+        "isTranslator": false,
+        "mediaCount": 104,
+        "statusesCount": 1816,
+        "withheldInCountries": [],
+        "affiliatesHighlightedLabel": {},
+        "possiblySensitive": false,
+        "pinnedTweetIds": [
+          "1939273097066217662"
+        ],
+        "profile_bio": {
+          "description": "Software engineer. ex-quant.\n\nAll relevant links on the website.",
+          "entities": {
+            "description": {},
+            "url": {
+              "urls": [
+                {
+                  "display_url": "nelworks.com",
+                  "expanded_url": "http://www.nelworks.com",
+                  "indices": [
+                    0,
+                    23
+                  ],
+                  "url": "https://t.co/ejA6le2oHq"
+                }
+              ]
+            }
+          }
+        },
+        "isAutomated": false,
+        "automatedBy": null
+      },
+      "extendedEntities": {},
+      "card": null,
+      "place": {},
+      "entities": {
+        "user_mentions": [
+          {
+            "id_str": "1629336979",
+            "indices": [
+              0,
+              16
+            ],
+            "name": "Elizabeth Holmes",
+            "screen_name": "ElizabethHolmes"
+          }
+        ]
+      },
+      "quoted_tweet": null,
+      "retweeted_tweet": null,
+      "isLimitedReply": true,
+      "article": null
+    },
+    {
+      "type": "tweet",
+      "id": "1964841696967213403",
+      "url": "https://x.com/nelvOfficial/status/1964841696967213403",
+      "twitterUrl": "https://twitter.com/nelvOfficial/status/1964841696967213403",
+      "text": "@redaction Public-employee salary to private-employee salary ratio is predictive of the negative quality of policies. \n\nArgentina has the highest Public/Private salary in the whole LatAm. \n\nIf you use the same logic and try to guess on EU, you'll probably find the same thing.",
+      "source": "Twitter for iPhone",
+      "retweetCount": 0,
+      "replyCount": 0,
+      "likeCount": 38,
+      "quoteCount": 0,
+      "viewCount": 3941,
+      "createdAt": "Mon Sep 08 00:02:20 +0000 2025",
+      "lang": "en",
+      "bookmarkCount": 4,
+      "isReply": true,
+      "inReplyToId": "1964840284392657159",
+      "conversationId": "1964840284392657159",
+      "displayTextRange": [
+        11,
+        276
+      ],
+      "inReplyToUserId": "259897904",
+      "inReplyToUsername": "redaction",
+      "author": {
+        "type": "user",
+        "userName": "nelvOfficial",
+        "url": "https://x.com/nelvOfficial",
+        "twitterUrl": "https://twitter.com/nelvOfficial",
+        "id": "1849903860984446976",
+        "name": "david len",
+        "isVerified": false,
+        "isBlueVerified": true,
+        "verifiedType": null,
+        "profilePicture": "https://pbs.twimg.com/profile_images/1905514620598861824/AnLDRr_7_normal.jpg",
+        "coverPicture": "https://pbs.twimg.com/profile_banners/1849903860984446976/1752183683",
+        "description": "",
+        "location": "Kuala Lumpur",
+        "followers": 171,
+        "following": 308,
+        "status": "",
+        "canDm": true,
+        "canMediaTag": true,
+        "createdAt": "Fri Oct 25 20:00:38 +0000 2024",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {}
+        },
+        "fastFollowersCount": 0,
+        "favouritesCount": 8829,
+        "hasCustomTimelines": true,
+        "isTranslator": false,
+        "mediaCount": 104,
+        "statusesCount": 1816,
+        "withheldInCountries": [],
+        "affiliatesHighlightedLabel": {},
+        "possiblySensitive": false,
+        "pinnedTweetIds": [
+          "1939273097066217662"
+        ],
+        "profile_bio": {
+          "description": "Software engineer. ex-quant.\n\nAll relevant links on the website.",
+          "entities": {
+            "description": {},
+            "url": {
+              "urls": [
+                {
+                  "display_url": "nelworks.com",
+                  "expanded_url": "http://www.nelworks.com",
+                  "indices": [
+                    0,
+                    23
+                  ],
+                  "url": "https://t.co/ejA6le2oHq"
+                }
+              ]
+            }
+          }
+        },
+        "isAutomated": false,
+        "automatedBy": null
+      },
+      "extendedEntities": {},
+      "card": null,
+      "place": {},
+      "entities": {
+        "user_mentions": [
+          {
+            "id_str": "259897904",
+            "indices": [
+              0,
+              10
+            ],
+            "name": "@redaction",
+            "screen_name": "redaction"
+          }
+        ]
+      },
+      "quoted_tweet": null,
+      "retweeted_tweet": null,
+      "isLimitedReply": false,
+      "article": null
+    },
+    {
+      "type": "tweet",
+      "id": "1964740488977912075",
+      "url": "https://x.com/nelvOfficial/status/1964740488977912075",
+      "twitterUrl": "https://twitter.com/nelvOfficial/status/1964740488977912075",
+      "text": "@bayeslord when did CEOs start becoming so fake and gay?",
+      "source": "Twitter for iPhone",
+      "retweetCount": 0,
+      "replyCount": 1,
+      "likeCount": 3,
+      "quoteCount": 0,
+      "viewCount": 1004,
+      "createdAt": "Sun Sep 07 17:20:10 +0000 2025",
+      "lang": "en",
+      "bookmarkCount": 0,
+      "isReply": true,
+      "inReplyToId": "1964529260200366495",
+      "conversationId": "1964529260200366495",
+      "displayTextRange": [
+        11,
+        56
+      ],
+      "inReplyToUserId": "1084942466376257537",
+      "inReplyToUsername": "bayeslord",
+      "author": {
+        "type": "user",
+        "userName": "nelvOfficial",
+        "url": "https://x.com/nelvOfficial",
+        "twitterUrl": "https://twitter.com/nelvOfficial",
+        "id": "1849903860984446976",
+        "name": "david len",
+        "isVerified": false,
+        "isBlueVerified": true,
+        "verifiedType": null,
+        "profilePicture": "https://pbs.twimg.com/profile_images/1905514620598861824/AnLDRr_7_normal.jpg",
+        "coverPicture": "https://pbs.twimg.com/profile_banners/1849903860984446976/1752183683",
+        "description": "",
+        "location": "Kuala Lumpur",
+        "followers": 171,
+        "following": 308,
+        "status": "",
+        "canDm": true,
+        "canMediaTag": true,
+        "createdAt": "Fri Oct 25 20:00:38 +0000 2024",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {}
+        },
+        "fastFollowersCount": 0,
+        "favouritesCount": 8829,
+        "hasCustomTimelines": true,
+        "isTranslator": false,
+        "mediaCount": 104,
+        "statusesCount": 1816,
+        "withheldInCountries": [],
+        "affiliatesHighlightedLabel": {},
+        "possiblySensitive": false,
+        "pinnedTweetIds": [
+          "1939273097066217662"
+        ],
+        "profile_bio": {
+          "description": "Software engineer. ex-quant.\n\nAll relevant links on the website.",
+          "entities": {
+            "description": {},
+            "url": {
+              "urls": [
+                {
+                  "display_url": "nelworks.com",
+                  "expanded_url": "http://www.nelworks.com",
+                  "indices": [
+                    0,
+                    23
+                  ],
+                  "url": "https://t.co/ejA6le2oHq"
+                }
+              ]
+            }
+          }
+        },
+        "isAutomated": false,
+        "automatedBy": null
+      },
+      "extendedEntities": {},
+      "card": null,
+      "place": {},
+      "entities": {
+        "user_mentions": [
+          {
+            "id_str": "1084942466376257537",
+            "indices": [
+              0,
+              10
+            ],
+            "name": "bayes",
+            "screen_name": "bayeslord"
+          }
+        ]
+      },
+      "quoted_tweet": null,
+      "retweeted_tweet": null,
+      "isLimitedReply": false,
+      "article": null
+    },
+    {
+      "type": "tweet",
+      "id": "1964740107304640654",
+      "url": "https://x.com/nelvOfficial/status/1964740107304640654",
+      "twitterUrl": "https://twitter.com/nelvOfficial/status/1964740107304640654",
+      "text": "@BoringBiz_ corporate daycare financed by fiat money. \n\nSK and Japan is the leaders of this trend",
+      "source": "Twitter for iPhone",
+      "retweetCount": 0,
+      "replyCount": 0,
+      "likeCount": 3,
+      "quoteCount": 0,
+      "viewCount": 195,
+      "createdAt": "Sun Sep 07 17:18:39 +0000 2025",
+      "lang": "en",
+      "bookmarkCount": 0,
+      "isReply": true,
+      "inReplyToId": "1964728200648679707",
+      "conversationId": "1964728200648679707",
+      "displayTextRange": [
+        12,
+        97
+      ],
+      "inReplyToUserId": "1652717271469506565",
+      "inReplyToUsername": "BoringBiz_",
+      "author": {
+        "type": "user",
+        "userName": "nelvOfficial",
+        "url": "https://x.com/nelvOfficial",
+        "twitterUrl": "https://twitter.com/nelvOfficial",
+        "id": "1849903860984446976",
+        "name": "david len",
+        "isVerified": false,
+        "isBlueVerified": true,
+        "verifiedType": null,
+        "profilePicture": "https://pbs.twimg.com/profile_images/1905514620598861824/AnLDRr_7_normal.jpg",
+        "coverPicture": "https://pbs.twimg.com/profile_banners/1849903860984446976/1752183683",
+        "description": "",
+        "location": "Kuala Lumpur",
+        "followers": 171,
+        "following": 308,
+        "status": "",
+        "canDm": true,
+        "canMediaTag": true,
+        "createdAt": "Fri Oct 25 20:00:38 +0000 2024",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {}
+        },
+        "fastFollowersCount": 0,
+        "favouritesCount": 8829,
+        "hasCustomTimelines": true,
+        "isTranslator": false,
+        "mediaCount": 104,
+        "statusesCount": 1816,
+        "withheldInCountries": [],
+        "affiliatesHighlightedLabel": {},
+        "possiblySensitive": false,
+        "pinnedTweetIds": [
+          "1939273097066217662"
+        ],
+        "profile_bio": {
+          "description": "Software engineer. ex-quant.\n\nAll relevant links on the website.",
+          "entities": {
+            "description": {},
+            "url": {
+              "urls": [
+                {
+                  "display_url": "nelworks.com",
+                  "expanded_url": "http://www.nelworks.com",
+                  "indices": [
+                    0,
+                    23
+                  ],
+                  "url": "https://t.co/ejA6le2oHq"
+                }
+              ]
+            }
+          }
+        },
+        "isAutomated": false,
+        "automatedBy": null
+      },
+      "extendedEntities": {},
+      "card": null,
+      "place": {},
+      "entities": {
+        "user_mentions": [
+          {
+            "id_str": "1652717271469506565",
+            "indices": [
+              0,
+              11
+            ],
+            "name": "Boring_Business",
+            "screen_name": "BoringBiz_"
+          }
+        ]
+      },
+      "quoted_tweet": null,
+      "retweeted_tweet": null,
+      "isLimitedReply": false,
+      "article": null
+    }
+  ]
+}
