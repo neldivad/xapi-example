@@ -23,6 +23,14 @@ python -m pip install -U pip
 pip install -r <(uv pip compile pyproject.toml || echo "python-dotenv requests pandas")
 ```
 
+Installing new packages
+```bash
+# from root dir
+
+uv add statsmodels
+```
+
+
 Create a .env with:
 
 ```bash
